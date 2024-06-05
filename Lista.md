@@ -1,6 +1,6 @@
 Alunos:
 Durval Santos de Jesus Neto
-https://github.com/Durvalneto?tab=repositories
+https://github.com/Durvalneto
 
 Podcast: 
 https://open.spotify.com/show/5sJj8JT8aiDYM1VX6qRQys
